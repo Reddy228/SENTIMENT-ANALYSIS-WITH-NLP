@@ -75,3 +75,4 @@ Filtering inappropriate content in comment sections
 summarizing public opinions about movies, events, products, or services
 
 OUTPUT :
+<img width="708" height="472" alt="Image" src="https://github.com/user-attachments/assets/ce5003af-3eec-48a5-879a-d45f587814b6" />
