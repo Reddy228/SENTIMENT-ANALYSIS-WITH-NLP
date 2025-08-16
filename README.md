@@ -76,3 +76,4 @@ summarizing public opinions about movies, events, products, or services
 
 OUTPUT :
 <img width="708" height="472" alt="Image" src="https://github.com/user-attachments/assets/ce5003af-3eec-48a5-879a-d45f587814b6" />
+<img width="744" height="579" alt="Image" src="https://github.com/user-attachments/assets/448e0e70-e491-4360-89e2-f3493af787c9" />
